@@ -17,11 +17,29 @@ We tested our code in the following environment:
 
 - Python 3.8.10
 
+### Dependencies
+* python >= 3.6
+* numpy >= 1.15.4
+* pytorch >= 1.3.0
+* opencv >= 3.4.4
+* dlib >= 19.17.0
+
+## Installation
+Clone this repository:
+```
+git clone https://github.com/soomean/Diverse-Motion-Stylization.git
+cd Diverse-Motion-Stylization
+```
+Install the dependencies:
+```
+pip install -r requirements.txt
+``` 
   
 Install python libraries with:
 
 ```
 pip install -r requirements.txt
 ```
+
 
 
