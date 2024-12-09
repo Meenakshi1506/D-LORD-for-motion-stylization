@@ -8,12 +8,10 @@ Click the figure to watch the teaser video. \
 
 ## Abstract video
 Click the figure to watch the teaser video. \
-[![Result](./Images/Results.jpg)](https://www.youtube.com/watch?v=3u4qLg8hqWM)
+[![Result](./Images/Results.png)](https://www.youtube.com/watch?v=3u4qLg8hqWM)
 
 https://www.youtube.com/watch?v=3u4qLg8hqWM
 
-
-https://www.youtube.com/watch?v=3u4qLg8hqWM
 
  ## Dependencies
 
