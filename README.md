@@ -38,7 +38,19 @@ Install the dependencies:
 pip install -r requirements.txt
 ``` 
   
-
+## Citing
+If you find this project useful for your research, please cite
+```
+@article{Gupta2024Dlord,
+  author={Gupta, Meenakshi and Lei, Mingyuan and Cham, Tat-Jen and Lee, Hwee Kuan},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={D-LORD for Motion Stylization}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TSMC.2024.3502498}}
+```
 
 
 
