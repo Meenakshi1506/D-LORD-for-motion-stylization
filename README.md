@@ -3,6 +3,10 @@ This is the official implementation of "D-LORD for Motion Stylization (IEEE TSMC
 
 ![image](https://github.com/user-attachments/assets/a59c18e7-cc5e-40f8-8739-a3b669bb552d)
 
+## Results video
+Click the figure to watch the teaser video. \
+![Result](https://[www.youtube.com/watch?v=iT9P0B8UpFs](https://www.youtube.com/watch?v=3u4qLg8hqWM))
+
  ## Dependencies
 
 We tested our code in the following environment:
