@@ -54,4 +54,17 @@ If you find this project useful for your research, please cite
 ```
 
 
+<!--
+## Acknowledgements
+This repository contains code snippets of the following projects: \
+https://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing
+https://github.com/yysijie/st-gcn \
+https://github.com/clovaai/stargan-v2 \
+https://github.com/DeepMotionEditing/deep-motion-editing
 
+## License
+This work is licensed under the terms of the MIT license.
+
+## Contact
+If you have any question, please feel free to contact me (sumny@kaist.ac.kr).
+--->
