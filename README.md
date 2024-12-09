@@ -64,7 +64,7 @@ https://github.com/DeepMotionEditing/deep-motion-editing
 
 ## License
 This work is licensed under the terms of the MIT license.
+--->
 
 ## Contact
-If you have any question, please feel free to contact me (sumny@kaist.ac.kr).
---->
+If you have any questions, please feel free to contact me (meenakshi1506@gmail.com).
