@@ -3,6 +3,11 @@ This is the official implementation of "D-LORD for Motion Stylization (IEEE TSMC
 
 ![image](https://github.com/user-attachments/assets/a59c18e7-cc5e-40f8-8739-a3b669bb552d)
 
+> **D-LORD-for-motion-stylization** \
+> Meenakshi Gupta, Mingyuan Lei, Tat-Jen Cham and Hwee Kuan Lee \
+> In IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024
+
+
 ## Results video
 Click the figure to watch the teaser video. \
 [![Result](./Images/Results.png)](https://www.youtube.com/watch?v=7UtNGZjqmzI&t=12s)
