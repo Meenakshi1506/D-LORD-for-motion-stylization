@@ -49,7 +49,8 @@ If you find this project useful for your research, please cite
   volume={},
   number={},
   pages={1-14},
-  doi={10.1109/TSMC.2024.3502498}}
+  doi={10.1109/TSMC.2024.3502498}
+}
 ```
 
 
