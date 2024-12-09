@@ -5,13 +5,9 @@ This is the official implementation of "D-LORD for Motion Stylization (IEEE TSMC
 
 ## Results video
 Click the figure to watch the teaser video. \
-
-## Abstract video
-Click the figure to watch the teaser video. \
 [![Result](./Images/Results.png)](https://www.youtube.com/watch?v=3u4qLg8hqWM)
 
-https://www.youtube.com/watch?v=3u4qLg8hqWM
-
+[![Result](./Images/Comparison_results.png)](https://www.youtube.com/watch?v=3u4qLg8hqWM)
 
  ## Dependencies
 
