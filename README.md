@@ -8,9 +8,9 @@ Click the figure to watch the teaser video. \
 
 ## Abstract video
 Click the figure to watch the teaser video. \
-[![Result](./image/abstract.jpg)](https://www.youtube.com/watch?v=iT9P0B8UpFs)
+[![Result](./Images/Results.jpg)](https://www.youtube.com/watch?v=3u4qLg8hqWM)
 
-![Result](https://[www.youtube.com/watch?v=iT9P0B8UpFs](https://www.youtube.com/watch?v=3u4qLg8hqWM))
+https://www.youtube.com/watch?v=3u4qLg8hqWM
 
 
 https://www.youtube.com/watch?v=3u4qLg8hqWM
